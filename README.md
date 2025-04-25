@@ -1,5 +1,5 @@
 # sdt-sample-repo
-test repository
+this is test repository
 
 #ADD YOUR DETAILS
 
